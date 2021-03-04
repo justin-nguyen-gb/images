@@ -13,8 +13,8 @@ To run the application
 ```
   ~/path-to-the-solution-folder/bee run
 ```
-![Alt text](./BeeRun.png "Title")
-![plot](./BeeRun.png)
+![Alt text](./beerun.png "Title")
+![plot](./beerun.png)
 ![ScreenShot](https://ibb.co/Ctq35Gw)
 Requirements
 
