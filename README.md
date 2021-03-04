@@ -6,20 +6,26 @@ Create a production-ready web service which combines two existing web services
    
 ## Instructions ##
 
-The REST api service is written in GO. It uses the Beego framework. If you don't have Beego installed on your computer, please refer to this link to have it installed (https://beego.me/docs/install/)
+The REST api service is written in GO. It uses the Beego framework. If you don't have Beego installed on your computer, please refer to this link  (https://beego.me/docs/install/)
 
 To run the application
 
 ```
  $ ~/path-to-the-solution-folder/bee run
 ```
-Please refer the the screenshot below
+
 ![plot](./imgs/beerun.png)
 
-The service listens on port 5000 and can be accessed with GET http://localhost:5000. The image below shows an example of the service being called from Postman
+The service listens on port 5000 and can be accessed with 'GET http://localhost:5000'. The image below shows an example of the service being called from Postman
 
 ![plot](./imgs/postman-default-get.png)
-Requirements
+
+## Implmentation Details  ##
+
+
+
+
+# Requirements
 
     The web service should be written in Go, Python, Javascript, or Ruby.
     Write a README.md file which (at a minimum) provides instructions for running the web service.
